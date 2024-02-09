@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sharif</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+
+<p align="center">
+    <h1 align="center">✩ Mohamed Sharif ✩</h1>
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsharrif&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true" alt="mohamedsharrif" /></a> </p>
+
 <h3 align="center">A passionate Software engineer from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsharrif&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsharrif" /> </p>
